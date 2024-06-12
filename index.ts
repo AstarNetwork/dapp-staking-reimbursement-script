@@ -42,7 +42,7 @@ async function main() {
 
   let actualTiers: Map<number, Map<number, Reward>> = new Map();
 
-  // iterate eras affected by the bug and replay block using chopsticks
+  // iterate eras affected by the bug and query data
   do {
     const blockNo = protocolState.nextEraStart.toNumber();
     const era = protocolState.era.toNumber();
