@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@acala-network/chopsticks": "^0.12.1",
+    "@acala-network/chopsticks-core": "^0.12.1",
+    "@acala-network/chopsticks-utils": "^0.12.1",
+    "@polkadot/api": "^10.11.2",
+    "@polkadot/util": "^12.6.2"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

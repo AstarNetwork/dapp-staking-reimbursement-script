@@ -1,0 +1,3942 @@
+[
+  {
+    "era": 738,
+    "dapp_id": 0,
+    "beneficiary": "XdFFaA9S31uQ9upPyKBGXcrYhFN7jtBkDYLDbDfc1VKaV8W",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2342682248398959405590",
+    "actual_reward": "2342682248398959405590",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 1,
+    "beneficiary": "anXvpdbMqS46xWb4tsF7BAhVwHsbwG3bmMCFQF2ddSsod9g",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 2,
+    "beneficiary": "ZRJ4wcGuf9KFqg1NB6wPctUwd7WcHo9LdBFzskEdSqiH52t",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 3,
+    "beneficiary": "YJRfL8FvfVLnvnKwvBWr1Bnav1SH4WztHhwspeAD29mt6xa",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 4,
+    "beneficiary": "YJqWvgMJcD1Di3BQvZ2W2KnSGKPfJGMVX6BZ9wfEaipviK9",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 5,
+    "beneficiary": "Zxqwap9tKnSaJuzoGzPrYzf13pZ63XUEngv8nVRxvopnW5N",
+    "expected_tier": 0,
+    "actual_tier": 0,
+    "expected_reward": "5210995330094397130423",
+    "actual_reward": "5210995330094397130423",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 6,
+    "beneficiary": "b1xCL3XGCjLrS2aZnUifnpuK9gCepGcsWboffjaR4F3tVuP",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 10,
+    "beneficiary": "YFZUVr9JRE3AMZ8CTjedJkvv9E7q2jcEvQJ8Y9vBgRYhPWc",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 11,
+    "beneficiary": "a4iJiYqsy3LK5KezfiDidVrGgUs5HVdffp7a6roBhVV7cuq",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2342682248398959405590",
+    "actual_reward": "2342682248398959405590",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 12,
+    "beneficiary": "Wmh1EtzS55Yu7nxMmszk2z7oPwbhDpzVn4v6hAnVTfGHcRY",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 13,
+    "beneficiary": "aChCmpvZat1Khi1QhnBs93ouXKodCGGNshiLaQ4e6QRRDEQ",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2342682248398959405590",
+    "actual_reward": "2342682248398959405590",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 14,
+    "beneficiary": "WT2qJs5x8nfeCu9pry2b49oHAkfJdPuQ6ku9HbLx4z2bbUb",
+    "expected_tier": 0,
+    "actual_tier": 0,
+    "expected_reward": "5210995330094397130423",
+    "actual_reward": "5210995330094397130423",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 16,
+    "beneficiary": "ZUpyfsre39jAomUiBfcapWBHKV57H6UYz7HmhvX9gTd4Fs6",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 17,
+    "beneficiary": "ZEUr1PBaxshhhPcF4jeVFVoC6BwCDYj48UsJ5ShquWN2yeE",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 20,
+    "beneficiary": "XhjGfuq5T1KoEFp2k5TEDaKBe6o2nFdo8JRXL3UYb1vZySW",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2342682248398959405590",
+    "actual_reward": "2342682248398959405590",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 24,
+    "beneficiary": "ZUo6331Sq9Fbt4Smx3XBuC2PBEV8s6sXkaJxUawgUqmRYfg",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 26,
+    "beneficiary": "aNkovLnKi2q5KLTyjvQFShdemhaQ1mwGcXDkdf81hvLMopX",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 27,
+    "beneficiary": "YCx2LEvMzjG7tBbdbfRNTsexU3FvTjZG3PN4bmJ5nx28XtB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 28,
+    "beneficiary": "YkqeedMEm6i8fFiwgbA4AHKespArFCfi8j3znqqx5wtEyPy",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 31,
+    "beneficiary": "ZwDkW3D3Z417kFDSh6ez9xhUWpTn1c1DAKZHUQCZXZeMqFN",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 33,
+    "beneficiary": "WYYVuTdvqyhJbRApoZnVExN6BnLpehFn9kmnJpQwjz12bn3",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 35,
+    "beneficiary": "X4Hsp6EcxNPypWidz4xuVJhoafLdpShzy5ADpLAJZdqeKwz",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 36,
+    "beneficiary": "XLtah1f9vJzWKE4Sbck851ArDQus1hAEaN6jtJcNQRujcDB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 37,
+    "beneficiary": "XMAHssEGJvaFyvXYYmuWDXvzCx4oLY5tGnvPLkviMVW4AYd",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 38,
+    "beneficiary": "bEKpmuoP86E9JSA5kzLHkFA9R2FHWyoX6dKX3XtvtL3rnKJ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 39,
+    "beneficiary": "ashiYo9RUjSj2f5hUbZY83FCy1ePkf54SFzD1CsZTgmC4qi",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 40,
+    "beneficiary": "b9AB1qFXsw81RuTBQ1sCP6PQ6k27QXWoe7VHrv9m6iwmBRK",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 42,
+    "beneficiary": "YewXn3eSdX5XKqwem27dXnbsWPtFsnzgXfdX6iNVUEGmPtw",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2342682248398959405590",
+    "actual_reward": "2342682248398959405590",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 47,
+    "beneficiary": "ZZZgswWp73ymRVpMu84bNfQERLyV9XR6T6DrozRxMdwT6Ez",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 49,
+    "beneficiary": "be8WtwsrvLUrJ5tA5Ht3BjKpajBMkRtYmURTa7BqNB6QZUA",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 51,
+    "beneficiary": "YXPD211sCj2gjrePAzsTtusqBbXmHp9A56whRXonz97TGKu",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 52,
+    "beneficiary": "ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2342682248398959405590",
+    "actual_reward": "2342682248398959405590",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 53,
+    "beneficiary": "WGYLrLw8TPjp1ynU9AiwZtanc7B2CMtB43ssKmawDwfoUsZ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 57,
+    "beneficiary": "Z72w8QNfMmbvq6VJ82yPd2giVHezNtpzVc3ZeSbCPu5j5EV",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 58,
+    "beneficiary": "ZNr4n9qc5fAap57oqoSazLpqqauQLzCTVXfKgKJsBp8t4Gr",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 59,
+    "beneficiary": "b1ymfVcP5vsT2ZPAWwVs6e2ecNWdFTGWfB8vzWixnyYacam",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 63,
+    "beneficiary": "XAAqKgEAdKw3N6tLuJM8RhiGE4DLwSxigGqahF5UBzfFcKL",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 64,
+    "beneficiary": "ZP8rbjrkyf5Qkjr32fEy3n6av2nPzHh6Egv62Vu8kgEwZ8Z",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2342682248398959405590",
+    "actual_reward": "2342682248398959405590",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 66,
+    "beneficiary": "YQ3S4AGrjyMndkjJuzup1fsDHYsD6EZ9BSkhzkFtNRhjDS2",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 67,
+    "beneficiary": "ZqpPKt2sk2Xwd1YgYq8UvPF3JJDJ7XcEKFCcybYTeYDaigC",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 70,
+    "beneficiary": "XDTAqd8vCpX1mDbU6Bb3jjBYBPCb9UiW5DiyAQvDykfkJ7Q",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 71,
+    "beneficiary": "aja8WxDTzNkxttWGv4ndFXWgYmfFcvDyE3AQKikrrcPQnTj",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 738,
+    "dapp_id": 73,
+    "beneficiary": "aRxv5MQtqoYjW3UFV6gxE3TbWuNnXeXLnirLufHVD9LiE4x",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 0,
+    "beneficiary": "XdFFaA9S31uQ9upPyKBGXcrYhFN7jtBkDYLDbDfc1VKaV8W",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2342682248398959405590",
+    "actual_reward": "2342682248398959405590",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 1,
+    "beneficiary": "anXvpdbMqS46xWb4tsF7BAhVwHsbwG3bmMCFQF2ddSsod9g",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 2,
+    "beneficiary": "ZRJ4wcGuf9KFqg1NB6wPctUwd7WcHo9LdBFzskEdSqiH52t",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 3,
+    "beneficiary": "YJRfL8FvfVLnvnKwvBWr1Bnav1SH4WztHhwspeAD29mt6xa",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 4,
+    "beneficiary": "YJqWvgMJcD1Di3BQvZ2W2KnSGKPfJGMVX6BZ9wfEaipviK9",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 5,
+    "beneficiary": "Zxqwap9tKnSaJuzoGzPrYzf13pZ63XUEngv8nVRxvopnW5N",
+    "expected_tier": 0,
+    "actual_tier": 0,
+    "expected_reward": "5210995330094397130423",
+    "actual_reward": "5210995330094397130423",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 6,
+    "beneficiary": "b1xCL3XGCjLrS2aZnUifnpuK9gCepGcsWboffjaR4F3tVuP",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 10,
+    "beneficiary": "YFZUVr9JRE3AMZ8CTjedJkvv9E7q2jcEvQJ8Y9vBgRYhPWc",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 11,
+    "beneficiary": "a4iJiYqsy3LK5KezfiDidVrGgUs5HVdffp7a6roBhVV7cuq",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2342682248398959405590",
+    "actual_reward": "2342682248398959405590",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 12,
+    "beneficiary": "Wmh1EtzS55Yu7nxMmszk2z7oPwbhDpzVn4v6hAnVTfGHcRY",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 13,
+    "beneficiary": "aChCmpvZat1Khi1QhnBs93ouXKodCGGNshiLaQ4e6QRRDEQ",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2342682248398959405590",
+    "actual_reward": "2342682248398959405590",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 14,
+    "beneficiary": "WT2qJs5x8nfeCu9pry2b49oHAkfJdPuQ6ku9HbLx4z2bbUb",
+    "expected_tier": 0,
+    "actual_tier": 0,
+    "expected_reward": "5210995330094397130423",
+    "actual_reward": "5210995330094397130423",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 16,
+    "beneficiary": "ZUpyfsre39jAomUiBfcapWBHKV57H6UYz7HmhvX9gTd4Fs6",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 17,
+    "beneficiary": "ZEUr1PBaxshhhPcF4jeVFVoC6BwCDYj48UsJ5ShquWN2yeE",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 20,
+    "beneficiary": "XhjGfuq5T1KoEFp2k5TEDaKBe6o2nFdo8JRXL3UYb1vZySW",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2342682248398959405590",
+    "actual_reward": "2342682248398959405590",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 23,
+    "beneficiary": "ZoByK2wayrCHie2GstYZYoKggwF6X1o1NJuXWYmB7ySosV5",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 24,
+    "beneficiary": "ZUo6331Sq9Fbt4Smx3XBuC2PBEV8s6sXkaJxUawgUqmRYfg",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 26,
+    "beneficiary": "aNkovLnKi2q5KLTyjvQFShdemhaQ1mwGcXDkdf81hvLMopX",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 27,
+    "beneficiary": "YCx2LEvMzjG7tBbdbfRNTsexU3FvTjZG3PN4bmJ5nx28XtB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 28,
+    "beneficiary": "YkqeedMEm6i8fFiwgbA4AHKespArFCfi8j3znqqx5wtEyPy",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 31,
+    "beneficiary": "ZwDkW3D3Z417kFDSh6ez9xhUWpTn1c1DAKZHUQCZXZeMqFN",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 33,
+    "beneficiary": "WYYVuTdvqyhJbRApoZnVExN6BnLpehFn9kmnJpQwjz12bn3",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 35,
+    "beneficiary": "X4Hsp6EcxNPypWidz4xuVJhoafLdpShzy5ADpLAJZdqeKwz",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 36,
+    "beneficiary": "XLtah1f9vJzWKE4Sbck851ArDQus1hAEaN6jtJcNQRujcDB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 37,
+    "beneficiary": "XMAHssEGJvaFyvXYYmuWDXvzCx4oLY5tGnvPLkviMVW4AYd",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 38,
+    "beneficiary": "bEKpmuoP86E9JSA5kzLHkFA9R2FHWyoX6dKX3XtvtL3rnKJ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 39,
+    "beneficiary": "ashiYo9RUjSj2f5hUbZY83FCy1ePkf54SFzD1CsZTgmC4qi",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 40,
+    "beneficiary": "b9AB1qFXsw81RuTBQ1sCP6PQ6k27QXWoe7VHrv9m6iwmBRK",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 42,
+    "beneficiary": "YewXn3eSdX5XKqwem27dXnbsWPtFsnzgXfdX6iNVUEGmPtw",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2342682248398959405590",
+    "actual_reward": "2342682248398959405590",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 47,
+    "beneficiary": "ZZZgswWp73ymRVpMu84bNfQERLyV9XR6T6DrozRxMdwT6Ez",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 49,
+    "beneficiary": "be8WtwsrvLUrJ5tA5Ht3BjKpajBMkRtYmURTa7BqNB6QZUA",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 51,
+    "beneficiary": "YXPD211sCj2gjrePAzsTtusqBbXmHp9A56whRXonz97TGKu",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 52,
+    "beneficiary": "ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2342682248398959405590",
+    "actual_reward": "2342682248398959405590",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 53,
+    "beneficiary": "WGYLrLw8TPjp1ynU9AiwZtanc7B2CMtB43ssKmawDwfoUsZ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 57,
+    "beneficiary": "Z72w8QNfMmbvq6VJ82yPd2giVHezNtpzVc3ZeSbCPu5j5EV",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 58,
+    "beneficiary": "ZNr4n9qc5fAap57oqoSazLpqqauQLzCTVXfKgKJsBp8t4Gr",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 59,
+    "beneficiary": "b1ymfVcP5vsT2ZPAWwVs6e2ecNWdFTGWfB8vzWixnyYacam",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "830738385957077803400",
+    "actual_reward": "830738385957077803400",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 63,
+    "beneficiary": "XAAqKgEAdKw3N6tLuJM8RhiGE4DLwSxigGqahF5UBzfFcKL",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 64,
+    "beneficiary": "ZP8rbjrkyf5Qkjr32fEy3n6av2nPzHh6Egv62Vu8kgEwZ8Z",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2342682248398959405590",
+    "actual_reward": "2342682248398959405590",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 66,
+    "beneficiary": "YQ3S4AGrjyMndkjJuzup1fsDHYsD6EZ9BSkhzkFtNRhjDS2",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 67,
+    "beneficiary": "ZqpPKt2sk2Xwd1YgYq8UvPF3JJDJ7XcEKFCcybYTeYDaigC",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 70,
+    "beneficiary": "XDTAqd8vCpX1mDbU6Bb3jjBYBPCb9UiW5DiyAQvDykfkJ7Q",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 71,
+    "beneficiary": "aja8WxDTzNkxttWGv4ndFXWgYmfFcvDyE3AQKikrrcPQnTj",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 739,
+    "dapp_id": 73,
+    "beneficiary": "aRxv5MQtqoYjW3UFV6gxE3TbWuNnXeXLnirLufHVD9LiE4x",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "66781687725481594292",
+    "actual_reward": "66781687725481594292",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 0,
+    "beneficiary": "XdFFaA9S31uQ9upPyKBGXcrYhFN7jtBkDYLDbDfc1VKaV8W",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2912523876387895477220",
+    "actual_reward": "2912523876387895477220",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 1,
+    "beneficiary": "anXvpdbMqS46xWb4tsF7BAhVwHsbwG3bmMCFQF2ddSsod9g",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 2,
+    "beneficiary": "ZRJ4wcGuf9KFqg1NB6wPctUwd7WcHo9LdBFzskEdSqiH52t",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 3,
+    "beneficiary": "YJRfL8FvfVLnvnKwvBWr1Bnav1SH4WztHhwspeAD29mt6xa",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 4,
+    "beneficiary": "YJqWvgMJcD1Di3BQvZ2W2KnSGKPfJGMVX6BZ9wfEaipviK9",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1023588368411399436333",
+    "actual_reward": "81887069472911954906",
+    "delta": "941701298938487481427"
+  },
+  {
+    "era": 740,
+    "dapp_id": 5,
+    "beneficiary": "Zxqwap9tKnSaJuzoGzPrYzf13pZ63XUEngv8nVRxvopnW5N",
+    "expected_tier": 0,
+    "actual_tier": 0,
+    "expected_reward": "6368994292337596492739",
+    "actual_reward": "6368994292337596492739",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 6,
+    "beneficiary": "b1xCL3XGCjLrS2aZnUifnpuK9gCepGcsWboffjaR4F3tVuP",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 10,
+    "beneficiary": "YFZUVr9JRE3AMZ8CTjedJkvv9E7q2jcEvQJ8Y9vBgRYhPWc",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 11,
+    "beneficiary": "a4iJiYqsy3LK5KezfiDidVrGgUs5HVdffp7a6roBhVV7cuq",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2912523876387895477220",
+    "actual_reward": "2912523876387895477220",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 12,
+    "beneficiary": "Wmh1EtzS55Yu7nxMmszk2z7oPwbhDpzVn4v6hAnVTfGHcRY",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1023588368411399436333",
+    "actual_reward": "1023588368411399436333",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 13,
+    "beneficiary": "aChCmpvZat1Khi1QhnBs93ouXKodCGGNshiLaQ4e6QRRDEQ",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "2912523876387895477220",
+    "actual_reward": "1023588368411399436333",
+    "delta": "1888935507976496040887"
+  },
+  {
+    "era": 740,
+    "dapp_id": 14,
+    "beneficiary": "WT2qJs5x8nfeCu9pry2b49oHAkfJdPuQ6ku9HbLx4z2bbUb",
+    "expected_tier": 0,
+    "actual_tier": 0,
+    "expected_reward": "6368994292337596492739",
+    "actual_reward": "6368994292337596492739",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 16,
+    "beneficiary": "ZUpyfsre39jAomUiBfcapWBHKV57H6UYz7HmhvX9gTd4Fs6",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 17,
+    "beneficiary": "ZEUr1PBaxshhhPcF4jeVFVoC6BwCDYj48UsJ5ShquWN2yeE",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1023588368411399436333",
+    "actual_reward": "81887069472911954906",
+    "delta": "941701298938487481427"
+  },
+  {
+    "era": 740,
+    "dapp_id": 20,
+    "beneficiary": "XhjGfuq5T1KoEFp2k5TEDaKBe6o2nFdo8JRXL3UYb1vZySW",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "2912523876387895477220",
+    "actual_reward": "1023588368411399436333",
+    "delta": "1888935507976496040887"
+  },
+  {
+    "era": 740,
+    "dapp_id": 23,
+    "beneficiary": "ZoByK2wayrCHie2GstYZYoKggwF6X1o1NJuXWYmB7ySosV5",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 24,
+    "beneficiary": "ZUo6331Sq9Fbt4Smx3XBuC2PBEV8s6sXkaJxUawgUqmRYfg",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 26,
+    "beneficiary": "aNkovLnKi2q5KLTyjvQFShdemhaQ1mwGcXDkdf81hvLMopX",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 27,
+    "beneficiary": "YCx2LEvMzjG7tBbdbfRNTsexU3FvTjZG3PN4bmJ5nx28XtB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 28,
+    "beneficiary": "YkqeedMEm6i8fFiwgbA4AHKespArFCfi8j3znqqx5wtEyPy",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 31,
+    "beneficiary": "ZwDkW3D3Z417kFDSh6ez9xhUWpTn1c1DAKZHUQCZXZeMqFN",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1023588368411399436333",
+    "actual_reward": "1023588368411399436333",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 33,
+    "beneficiary": "WYYVuTdvqyhJbRApoZnVExN6BnLpehFn9kmnJpQwjz12bn3",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1023588368411399436333",
+    "actual_reward": "1023588368411399436333",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 35,
+    "beneficiary": "X4Hsp6EcxNPypWidz4xuVJhoafLdpShzy5ADpLAJZdqeKwz",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1023588368411399436333",
+    "actual_reward": "1023588368411399436333",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 36,
+    "beneficiary": "XLtah1f9vJzWKE4Sbck851ArDQus1hAEaN6jtJcNQRujcDB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 37,
+    "beneficiary": "XMAHssEGJvaFyvXYYmuWDXvzCx4oLY5tGnvPLkviMVW4AYd",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 38,
+    "beneficiary": "bEKpmuoP86E9JSA5kzLHkFA9R2FHWyoX6dKX3XtvtL3rnKJ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 39,
+    "beneficiary": "ashiYo9RUjSj2f5hUbZY83FCy1ePkf54SFzD1CsZTgmC4qi",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 40,
+    "beneficiary": "b9AB1qFXsw81RuTBQ1sCP6PQ6k27QXWoe7VHrv9m6iwmBRK",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1023588368411399436333",
+    "actual_reward": "81887069472911954906",
+    "delta": "941701298938487481427"
+  },
+  {
+    "era": 740,
+    "dapp_id": 42,
+    "beneficiary": "YewXn3eSdX5XKqwem27dXnbsWPtFsnzgXfdX6iNVUEGmPtw",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2912523876387895477220",
+    "actual_reward": "2912523876387895477220",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 47,
+    "beneficiary": "ZZZgswWp73ymRVpMu84bNfQERLyV9XR6T6DrozRxMdwT6Ez",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 49,
+    "beneficiary": "be8WtwsrvLUrJ5tA5Ht3BjKpajBMkRtYmURTa7BqNB6QZUA",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1023588368411399436333",
+    "actual_reward": "1023588368411399436333",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 51,
+    "beneficiary": "YXPD211sCj2gjrePAzsTtusqBbXmHp9A56whRXonz97TGKu",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1023588368411399436333",
+    "actual_reward": "81887069472911954906",
+    "delta": "941701298938487481427"
+  },
+  {
+    "era": 740,
+    "dapp_id": 52,
+    "beneficiary": "ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "2912523876387895477220",
+    "actual_reward": "2912523876387895477220",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 53,
+    "beneficiary": "WGYLrLw8TPjp1ynU9AiwZtanc7B2CMtB43ssKmawDwfoUsZ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 57,
+    "beneficiary": "Z72w8QNfMmbvq6VJ82yPd2giVHezNtpzVc3ZeSbCPu5j5EV",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1023588368411399436333",
+    "actual_reward": "81887069472911954906",
+    "delta": "941701298938487481427"
+  },
+  {
+    "era": 740,
+    "dapp_id": 58,
+    "beneficiary": "ZNr4n9qc5fAap57oqoSazLpqqauQLzCTVXfKgKJsBp8t4Gr",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 59,
+    "beneficiary": "b1ymfVcP5vsT2ZPAWwVs6e2ecNWdFTGWfB8vzWixnyYacam",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1023588368411399436333",
+    "actual_reward": "81887069472911954906",
+    "delta": "941701298938487481427"
+  },
+  {
+    "era": 740,
+    "dapp_id": 63,
+    "beneficiary": "XAAqKgEAdKw3N6tLuJM8RhiGE4DLwSxigGqahF5UBzfFcKL",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 64,
+    "beneficiary": "ZP8rbjrkyf5Qkjr32fEy3n6av2nPzHh6Egv62Vu8kgEwZ8Z",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "2912523876387895477220",
+    "actual_reward": "1023588368411399436333",
+    "delta": "1888935507976496040887"
+  },
+  {
+    "era": 740,
+    "dapp_id": 66,
+    "beneficiary": "YQ3S4AGrjyMndkjJuzup1fsDHYsD6EZ9BSkhzkFtNRhjDS2",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 67,
+    "beneficiary": "ZqpPKt2sk2Xwd1YgYq8UvPF3JJDJ7XcEKFCcybYTeYDaigC",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 70,
+    "beneficiary": "XDTAqd8vCpX1mDbU6Bb3jjBYBPCb9UiW5DiyAQvDykfkJ7Q",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 71,
+    "beneficiary": "aja8WxDTzNkxttWGv4ndFXWgYmfFcvDyE3AQKikrrcPQnTj",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 740,
+    "dapp_id": 73,
+    "beneficiary": "aRxv5MQtqoYjW3UFV6gxE3TbWuNnXeXLnirLufHVD9LiE4x",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "81887069472911954906",
+    "actual_reward": "81887069472911954906",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 0,
+    "beneficiary": "XdFFaA9S31uQ9upPyKBGXcrYhFN7jtBkDYLDbDfc1VKaV8W",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3169511277245650960504",
+    "actual_reward": "3169511277245650960504",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 1,
+    "beneficiary": "anXvpdbMqS46xWb4tsF7BAhVwHsbwG3bmMCFQF2ddSsod9g",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 2,
+    "beneficiary": "ZRJ4wcGuf9KFqg1NB6wPctUwd7WcHo9LdBFzskEdSqiH52t",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 3,
+    "beneficiary": "YJRfL8FvfVLnvnKwvBWr1Bnav1SH4WztHhwspeAD29mt6xa",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 4,
+    "beneficiary": "YJqWvgMJcD1Di3BQvZ2W2KnSGKPfJGMVX6BZ9wfEaipviK9",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1102325935212276316051",
+    "actual_reward": "89331348515903950807",
+    "delta": "1012994586696372365244"
+  },
+  {
+    "era": 741,
+    "dapp_id": 5,
+    "beneficiary": "Zxqwap9tKnSaJuzoGzPrYzf13pZ63XUEngv8nVRxvopnW5N",
+    "expected_tier": 0,
+    "actual_tier": 0,
+    "expected_reward": "6368994292337596492739",
+    "actual_reward": "6368994292337596492739",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 6,
+    "beneficiary": "b1xCL3XGCjLrS2aZnUifnpuK9gCepGcsWboffjaR4F3tVuP",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 10,
+    "beneficiary": "YFZUVr9JRE3AMZ8CTjedJkvv9E7q2jcEvQJ8Y9vBgRYhPWc",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 11,
+    "beneficiary": "a4iJiYqsy3LK5KezfiDidVrGgUs5HVdffp7a6roBhVV7cuq",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3169511277245650960504",
+    "actual_reward": "3169511277245650960504",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 12,
+    "beneficiary": "Wmh1EtzS55Yu7nxMmszk2z7oPwbhDpzVn4v6hAnVTfGHcRY",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1102325935212276316051",
+    "actual_reward": "1102325935212276316051",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 13,
+    "beneficiary": "aChCmpvZat1Khi1QhnBs93ouXKodCGGNshiLaQ4e6QRRDEQ",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3169511277245650960504",
+    "actual_reward": "1102325935212276316051",
+    "delta": "2067185342033374644453"
+  },
+  {
+    "era": 741,
+    "dapp_id": 14,
+    "beneficiary": "WT2qJs5x8nfeCu9pry2b49oHAkfJdPuQ6ku9HbLx4z2bbUb",
+    "expected_tier": 0,
+    "actual_tier": 0,
+    "expected_reward": "6368994292337596492739",
+    "actual_reward": "6368994292337596492739",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 16,
+    "beneficiary": "ZUpyfsre39jAomUiBfcapWBHKV57H6UYz7HmhvX9gTd4Fs6",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 17,
+    "beneficiary": "ZEUr1PBaxshhhPcF4jeVFVoC6BwCDYj48UsJ5ShquWN2yeE",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1102325935212276316051",
+    "actual_reward": "89331348515903950807",
+    "delta": "1012994586696372365244"
+  },
+  {
+    "era": 741,
+    "dapp_id": 20,
+    "beneficiary": "XhjGfuq5T1KoEFp2k5TEDaKBe6o2nFdo8JRXL3UYb1vZySW",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3169511277245650960504",
+    "actual_reward": "1102325935212276316051",
+    "delta": "2067185342033374644453"
+  },
+  {
+    "era": 741,
+    "dapp_id": 23,
+    "beneficiary": "ZoByK2wayrCHie2GstYZYoKggwF6X1o1NJuXWYmB7ySosV5",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 24,
+    "beneficiary": "ZUo6331Sq9Fbt4Smx3XBuC2PBEV8s6sXkaJxUawgUqmRYfg",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 26,
+    "beneficiary": "aNkovLnKi2q5KLTyjvQFShdemhaQ1mwGcXDkdf81hvLMopX",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 27,
+    "beneficiary": "YCx2LEvMzjG7tBbdbfRNTsexU3FvTjZG3PN4bmJ5nx28XtB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 28,
+    "beneficiary": "YkqeedMEm6i8fFiwgbA4AHKespArFCfi8j3znqqx5wtEyPy",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 31,
+    "beneficiary": "ZwDkW3D3Z417kFDSh6ez9xhUWpTn1c1DAKZHUQCZXZeMqFN",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1102325935212276316051",
+    "actual_reward": "1102325935212276316051",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 33,
+    "beneficiary": "WYYVuTdvqyhJbRApoZnVExN6BnLpehFn9kmnJpQwjz12bn3",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1102325935212276316051",
+    "actual_reward": "1102325935212276316051",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 35,
+    "beneficiary": "X4Hsp6EcxNPypWidz4xuVJhoafLdpShzy5ADpLAJZdqeKwz",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1102325935212276316051",
+    "actual_reward": "89331348515903950807",
+    "delta": "1012994586696372365244"
+  },
+  {
+    "era": 741,
+    "dapp_id": 36,
+    "beneficiary": "XLtah1f9vJzWKE4Sbck851ArDQus1hAEaN6jtJcNQRujcDB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 37,
+    "beneficiary": "XMAHssEGJvaFyvXYYmuWDXvzCx4oLY5tGnvPLkviMVW4AYd",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 38,
+    "beneficiary": "bEKpmuoP86E9JSA5kzLHkFA9R2FHWyoX6dKX3XtvtL3rnKJ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 39,
+    "beneficiary": "ashiYo9RUjSj2f5hUbZY83FCy1ePkf54SFzD1CsZTgmC4qi",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 40,
+    "beneficiary": "b9AB1qFXsw81RuTBQ1sCP6PQ6k27QXWoe7VHrv9m6iwmBRK",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1102325935212276316051",
+    "actual_reward": "89331348515903950807",
+    "delta": "1012994586696372365244"
+  },
+  {
+    "era": 741,
+    "dapp_id": 42,
+    "beneficiary": "YewXn3eSdX5XKqwem27dXnbsWPtFsnzgXfdX6iNVUEGmPtw",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3169511277245650960504",
+    "actual_reward": "3169511277245650960504",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 47,
+    "beneficiary": "ZZZgswWp73ymRVpMu84bNfQERLyV9XR6T6DrozRxMdwT6Ez",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 49,
+    "beneficiary": "be8WtwsrvLUrJ5tA5Ht3BjKpajBMkRtYmURTa7BqNB6QZUA",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1102325935212276316051",
+    "actual_reward": "1102325935212276316051",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 51,
+    "beneficiary": "YXPD211sCj2gjrePAzsTtusqBbXmHp9A56whRXonz97TGKu",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1102325935212276316051",
+    "actual_reward": "89331348515903950807",
+    "delta": "1012994586696372365244"
+  },
+  {
+    "era": 741,
+    "dapp_id": 52,
+    "beneficiary": "ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3169511277245650960504",
+    "actual_reward": "3169511277245650960504",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 53,
+    "beneficiary": "WGYLrLw8TPjp1ynU9AiwZtanc7B2CMtB43ssKmawDwfoUsZ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 57,
+    "beneficiary": "Z72w8QNfMmbvq6VJ82yPd2giVHezNtpzVc3ZeSbCPu5j5EV",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1102325935212276316051",
+    "actual_reward": "89331348515903950807",
+    "delta": "1012994586696372365244"
+  },
+  {
+    "era": 741,
+    "dapp_id": 58,
+    "beneficiary": "ZNr4n9qc5fAap57oqoSazLpqqauQLzCTVXfKgKJsBp8t4Gr",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 59,
+    "beneficiary": "b1ymfVcP5vsT2ZPAWwVs6e2ecNWdFTGWfB8vzWixnyYacam",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1102325935212276316051",
+    "actual_reward": "89331348515903950807",
+    "delta": "1012994586696372365244"
+  },
+  {
+    "era": 741,
+    "dapp_id": 63,
+    "beneficiary": "XAAqKgEAdKw3N6tLuJM8RhiGE4DLwSxigGqahF5UBzfFcKL",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 64,
+    "beneficiary": "ZP8rbjrkyf5Qkjr32fEy3n6av2nPzHh6Egv62Vu8kgEwZ8Z",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3169511277245650960504",
+    "actual_reward": "1102325935212276316051",
+    "delta": "2067185342033374644453"
+  },
+  {
+    "era": 741,
+    "dapp_id": 66,
+    "beneficiary": "YQ3S4AGrjyMndkjJuzup1fsDHYsD6EZ9BSkhzkFtNRhjDS2",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 67,
+    "beneficiary": "ZqpPKt2sk2Xwd1YgYq8UvPF3JJDJ7XcEKFCcybYTeYDaigC",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 70,
+    "beneficiary": "XDTAqd8vCpX1mDbU6Bb3jjBYBPCb9UiW5DiyAQvDykfkJ7Q",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 71,
+    "beneficiary": "aja8WxDTzNkxttWGv4ndFXWgYmfFcvDyE3AQKikrrcPQnTj",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 741,
+    "dapp_id": 73,
+    "beneficiary": "aRxv5MQtqoYjW3UFV6gxE3TbWuNnXeXLnirLufHVD9LiE4x",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "89331348515903950807",
+    "actual_reward": "89331348515903950807",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 0,
+    "beneficiary": "XdFFaA9S31uQ9upPyKBGXcrYhFN7jtBkDYLDbDfc1VKaV8W",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3265557073525822201731",
+    "actual_reward": "3265557073525822201731",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 1,
+    "beneficiary": "anXvpdbMqS46xWb4tsF7BAhVwHsbwG3bmMCFQF2ddSsod9g",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 2,
+    "beneficiary": "ZRJ4wcGuf9KFqg1NB6wPctUwd7WcHo9LdBFzskEdSqiH52t",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 3,
+    "beneficiary": "YJRfL8FvfVLnvnKwvBWr1Bnav1SH4WztHhwspeAD29mt6xa",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 4,
+    "beneficiary": "YJqWvgMJcD1Di3BQvZ2W2KnSGKPfJGMVX6BZ9wfEaipviK9",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1169815278184456498666",
+    "actual_reward": "92952889671954110975",
+    "delta": "1076862388512502387691"
+  },
+  {
+    "era": 742,
+    "dapp_id": 5,
+    "beneficiary": "Zxqwap9tKnSaJuzoGzPrYzf13pZ63XUEngv8nVRxvopnW5N",
+    "expected_tier": 0,
+    "actual_tier": 0,
+    "expected_reward": "7165118578879796054332",
+    "actual_reward": "7165118578879796054332",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 6,
+    "beneficiary": "b1xCL3XGCjLrS2aZnUifnpuK9gCepGcsWboffjaR4F3tVuP",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 10,
+    "beneficiary": "YFZUVr9JRE3AMZ8CTjedJkvv9E7q2jcEvQJ8Y9vBgRYhPWc",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 11,
+    "beneficiary": "a4iJiYqsy3LK5KezfiDidVrGgUs5HVdffp7a6roBhVV7cuq",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3265557073525822201731",
+    "actual_reward": "3265557073525822201731",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 12,
+    "beneficiary": "Wmh1EtzS55Yu7nxMmszk2z7oPwbhDpzVn4v6hAnVTfGHcRY",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1169815278184456498666",
+    "actual_reward": "1169815278184456498666",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 13,
+    "beneficiary": "aChCmpvZat1Khi1QhnBs93ouXKodCGGNshiLaQ4e6QRRDEQ",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3265557073525822201731",
+    "actual_reward": "1169815278184456498666",
+    "delta": "2095741795341365703065"
+  },
+  {
+    "era": 742,
+    "dapp_id": 14,
+    "beneficiary": "WT2qJs5x8nfeCu9pry2b49oHAkfJdPuQ6ku9HbLx4z2bbUb",
+    "expected_tier": 0,
+    "actual_tier": 0,
+    "expected_reward": "7165118578879796054332",
+    "actual_reward": "7165118578879796054332",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 16,
+    "beneficiary": "ZUpyfsre39jAomUiBfcapWBHKV57H6UYz7HmhvX9gTd4Fs6",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 17,
+    "beneficiary": "ZEUr1PBaxshhhPcF4jeVFVoC6BwCDYj48UsJ5ShquWN2yeE",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1169815278184456498666",
+    "actual_reward": "92952889671954110975",
+    "delta": "1076862388512502387691"
+  },
+  {
+    "era": 742,
+    "dapp_id": 20,
+    "beneficiary": "XhjGfuq5T1KoEFp2k5TEDaKBe6o2nFdo8JRXL3UYb1vZySW",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3265557073525822201731",
+    "actual_reward": "1169815278184456498666",
+    "delta": "2095741795341365703065"
+  },
+  {
+    "era": 742,
+    "dapp_id": 23,
+    "beneficiary": "ZoByK2wayrCHie2GstYZYoKggwF6X1o1NJuXWYmB7ySosV5",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 24,
+    "beneficiary": "ZUo6331Sq9Fbt4Smx3XBuC2PBEV8s6sXkaJxUawgUqmRYfg",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 26,
+    "beneficiary": "aNkovLnKi2q5KLTyjvQFShdemhaQ1mwGcXDkdf81hvLMopX",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 27,
+    "beneficiary": "YCx2LEvMzjG7tBbdbfRNTsexU3FvTjZG3PN4bmJ5nx28XtB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 28,
+    "beneficiary": "YkqeedMEm6i8fFiwgbA4AHKespArFCfi8j3znqqx5wtEyPy",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 31,
+    "beneficiary": "ZwDkW3D3Z417kFDSh6ez9xhUWpTn1c1DAKZHUQCZXZeMqFN",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1169815278184456498666",
+    "actual_reward": "1169815278184456498666",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 33,
+    "beneficiary": "WYYVuTdvqyhJbRApoZnVExN6BnLpehFn9kmnJpQwjz12bn3",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1169815278184456498666",
+    "actual_reward": "1169815278184456498666",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 35,
+    "beneficiary": "X4Hsp6EcxNPypWidz4xuVJhoafLdpShzy5ADpLAJZdqeKwz",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1169815278184456498666",
+    "actual_reward": "92952889671954110975",
+    "delta": "1076862388512502387691"
+  },
+  {
+    "era": 742,
+    "dapp_id": 36,
+    "beneficiary": "XLtah1f9vJzWKE4Sbck851ArDQus1hAEaN6jtJcNQRujcDB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 37,
+    "beneficiary": "XMAHssEGJvaFyvXYYmuWDXvzCx4oLY5tGnvPLkviMVW4AYd",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 38,
+    "beneficiary": "bEKpmuoP86E9JSA5kzLHkFA9R2FHWyoX6dKX3XtvtL3rnKJ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 39,
+    "beneficiary": "ashiYo9RUjSj2f5hUbZY83FCy1ePkf54SFzD1CsZTgmC4qi",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 40,
+    "beneficiary": "b9AB1qFXsw81RuTBQ1sCP6PQ6k27QXWoe7VHrv9m6iwmBRK",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1169815278184456498666",
+    "actual_reward": "92952889671954110975",
+    "delta": "1076862388512502387691"
+  },
+  {
+    "era": 742,
+    "dapp_id": 42,
+    "beneficiary": "YewXn3eSdX5XKqwem27dXnbsWPtFsnzgXfdX6iNVUEGmPtw",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3265557073525822201731",
+    "actual_reward": "3265557073525822201731",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 47,
+    "beneficiary": "ZZZgswWp73ymRVpMu84bNfQERLyV9XR6T6DrozRxMdwT6Ez",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 49,
+    "beneficiary": "be8WtwsrvLUrJ5tA5Ht3BjKpajBMkRtYmURTa7BqNB6QZUA",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1169815278184456498666",
+    "actual_reward": "1169815278184456498666",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 51,
+    "beneficiary": "YXPD211sCj2gjrePAzsTtusqBbXmHp9A56whRXonz97TGKu",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1169815278184456498666",
+    "actual_reward": "92952889671954110975",
+    "delta": "1076862388512502387691"
+  },
+  {
+    "era": 742,
+    "dapp_id": 52,
+    "beneficiary": "ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3265557073525822201731",
+    "actual_reward": "3265557073525822201731",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 53,
+    "beneficiary": "WGYLrLw8TPjp1ynU9AiwZtanc7B2CMtB43ssKmawDwfoUsZ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 57,
+    "beneficiary": "Z72w8QNfMmbvq6VJ82yPd2giVHezNtpzVc3ZeSbCPu5j5EV",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1169815278184456498666",
+    "actual_reward": "92952889671954110975",
+    "delta": "1076862388512502387691"
+  },
+  {
+    "era": 742,
+    "dapp_id": 58,
+    "beneficiary": "ZNr4n9qc5fAap57oqoSazLpqqauQLzCTVXfKgKJsBp8t4Gr",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 59,
+    "beneficiary": "b1ymfVcP5vsT2ZPAWwVs6e2ecNWdFTGWfB8vzWixnyYacam",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1169815278184456498666",
+    "actual_reward": "92952889671954110975",
+    "delta": "1076862388512502387691"
+  },
+  {
+    "era": 742,
+    "dapp_id": 63,
+    "beneficiary": "XAAqKgEAdKw3N6tLuJM8RhiGE4DLwSxigGqahF5UBzfFcKL",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 64,
+    "beneficiary": "ZP8rbjrkyf5Qkjr32fEy3n6av2nPzHh6Egv62Vu8kgEwZ8Z",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3265557073525822201731",
+    "actual_reward": "1169815278184456498666",
+    "delta": "2095741795341365703065"
+  },
+  {
+    "era": 742,
+    "dapp_id": 66,
+    "beneficiary": "YQ3S4AGrjyMndkjJuzup1fsDHYsD6EZ9BSkhzkFtNRhjDS2",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 67,
+    "beneficiary": "ZqpPKt2sk2Xwd1YgYq8UvPF3JJDJ7XcEKFCcybYTeYDaigC",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 70,
+    "beneficiary": "XDTAqd8vCpX1mDbU6Bb3jjBYBPCb9UiW5DiyAQvDykfkJ7Q",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 71,
+    "beneficiary": "aja8WxDTzNkxttWGv4ndFXWgYmfFcvDyE3AQKikrrcPQnTj",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 742,
+    "dapp_id": 73,
+    "beneficiary": "aRxv5MQtqoYjW3UFV6gxE3TbWuNnXeXLnirLufHVD9LiE4x",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "92952889671954110975",
+    "actual_reward": "92952889671954110975",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 0,
+    "beneficiary": "XdFFaA9S31uQ9upPyKBGXcrYhFN7jtBkDYLDbDfc1VKaV8W",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3367605732073504145536",
+    "actual_reward": "3367605732073504145536",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 1,
+    "beneficiary": "anXvpdbMqS46xWb4tsF7BAhVwHsbwG3bmMCFQF2ddSsod9g",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 2,
+    "beneficiary": "ZRJ4wcGuf9KFqg1NB6wPctUwd7WcHo9LdBFzskEdSqiH52t",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 3,
+    "beneficiary": "YJRfL8FvfVLnvnKwvBWr1Bnav1SH4WztHhwspeAD29mt6xa",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 4,
+    "beneficiary": "YJqWvgMJcD1Di3BQvZ2W2KnSGKPfJGMVX6BZ9wfEaipviK9",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1194186429813299342388",
+    "actual_reward": "95534914385063947391",
+    "delta": "1098651515428235394997"
+  },
+  {
+    "era": 743,
+    "dapp_id": 5,
+    "beneficiary": "Zxqwap9tKnSaJuzoGzPrYzf13pZ63XUEngv8nVRxvopnW5N",
+    "expected_tier": 0,
+    "actual_tier": 0,
+    "expected_reward": "7165118578879796054332",
+    "actual_reward": "7165118578879796054332",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 6,
+    "beneficiary": "b1xCL3XGCjLrS2aZnUifnpuK9gCepGcsWboffjaR4F3tVuP",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 10,
+    "beneficiary": "YFZUVr9JRE3AMZ8CTjedJkvv9E7q2jcEvQJ8Y9vBgRYhPWc",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 11,
+    "beneficiary": "a4iJiYqsy3LK5KezfiDidVrGgUs5HVdffp7a6roBhVV7cuq",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3367605732073504145536",
+    "actual_reward": "3367605732073504145536",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 12,
+    "beneficiary": "Wmh1EtzS55Yu7nxMmszk2z7oPwbhDpzVn4v6hAnVTfGHcRY",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1194186429813299342388",
+    "actual_reward": "1194186429813299342388",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 13,
+    "beneficiary": "aChCmpvZat1Khi1QhnBs93ouXKodCGGNshiLaQ4e6QRRDEQ",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3367605732073504145536",
+    "actual_reward": "1194186429813299342388",
+    "delta": "2173419302260204803148"
+  },
+  {
+    "era": 743,
+    "dapp_id": 14,
+    "beneficiary": "WT2qJs5x8nfeCu9pry2b49oHAkfJdPuQ6ku9HbLx4z2bbUb",
+    "expected_tier": 0,
+    "actual_tier": 0,
+    "expected_reward": "7165118578879796054332",
+    "actual_reward": "7165118578879796054332",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 16,
+    "beneficiary": "ZUpyfsre39jAomUiBfcapWBHKV57H6UYz7HmhvX9gTd4Fs6",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 17,
+    "beneficiary": "ZEUr1PBaxshhhPcF4jeVFVoC6BwCDYj48UsJ5ShquWN2yeE",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1194186429813299342388",
+    "actual_reward": "95534914385063947391",
+    "delta": "1098651515428235394997"
+  },
+  {
+    "era": 743,
+    "dapp_id": 20,
+    "beneficiary": "XhjGfuq5T1KoEFp2k5TEDaKBe6o2nFdo8JRXL3UYb1vZySW",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3367605732073504145536",
+    "actual_reward": "1194186429813299342388",
+    "delta": "2173419302260204803148"
+  },
+  {
+    "era": 743,
+    "dapp_id": 23,
+    "beneficiary": "ZoByK2wayrCHie2GstYZYoKggwF6X1o1NJuXWYmB7ySosV5",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 24,
+    "beneficiary": "ZUo6331Sq9Fbt4Smx3XBuC2PBEV8s6sXkaJxUawgUqmRYfg",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 26,
+    "beneficiary": "aNkovLnKi2q5KLTyjvQFShdemhaQ1mwGcXDkdf81hvLMopX",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 27,
+    "beneficiary": "YCx2LEvMzjG7tBbdbfRNTsexU3FvTjZG3PN4bmJ5nx28XtB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 28,
+    "beneficiary": "YkqeedMEm6i8fFiwgbA4AHKespArFCfi8j3znqqx5wtEyPy",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 31,
+    "beneficiary": "ZwDkW3D3Z417kFDSh6ez9xhUWpTn1c1DAKZHUQCZXZeMqFN",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1194186429813299342388",
+    "actual_reward": "1194186429813299342388",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 33,
+    "beneficiary": "WYYVuTdvqyhJbRApoZnVExN6BnLpehFn9kmnJpQwjz12bn3",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1194186429813299342388",
+    "actual_reward": "1194186429813299342388",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 35,
+    "beneficiary": "X4Hsp6EcxNPypWidz4xuVJhoafLdpShzy5ADpLAJZdqeKwz",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1194186429813299342388",
+    "actual_reward": "95534914385063947391",
+    "delta": "1098651515428235394997"
+  },
+  {
+    "era": 743,
+    "dapp_id": 36,
+    "beneficiary": "XLtah1f9vJzWKE4Sbck851ArDQus1hAEaN6jtJcNQRujcDB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 37,
+    "beneficiary": "XMAHssEGJvaFyvXYYmuWDXvzCx4oLY5tGnvPLkviMVW4AYd",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 38,
+    "beneficiary": "bEKpmuoP86E9JSA5kzLHkFA9R2FHWyoX6dKX3XtvtL3rnKJ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 39,
+    "beneficiary": "ashiYo9RUjSj2f5hUbZY83FCy1ePkf54SFzD1CsZTgmC4qi",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 40,
+    "beneficiary": "b9AB1qFXsw81RuTBQ1sCP6PQ6k27QXWoe7VHrv9m6iwmBRK",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1194186429813299342388",
+    "actual_reward": "95534914385063947391",
+    "delta": "1098651515428235394997"
+  },
+  {
+    "era": 743,
+    "dapp_id": 42,
+    "beneficiary": "YewXn3eSdX5XKqwem27dXnbsWPtFsnzgXfdX6iNVUEGmPtw",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3367605732073504145536",
+    "actual_reward": "3367605732073504145536",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 47,
+    "beneficiary": "ZZZgswWp73ymRVpMu84bNfQERLyV9XR6T6DrozRxMdwT6Ez",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 49,
+    "beneficiary": "be8WtwsrvLUrJ5tA5Ht3BjKpajBMkRtYmURTa7BqNB6QZUA",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1194186429813299342388",
+    "actual_reward": "1194186429813299342388",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 51,
+    "beneficiary": "YXPD211sCj2gjrePAzsTtusqBbXmHp9A56whRXonz97TGKu",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1194186429813299342388",
+    "actual_reward": "95534914385063947391",
+    "delta": "1098651515428235394997"
+  },
+  {
+    "era": 743,
+    "dapp_id": 52,
+    "beneficiary": "ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3367605732073504145536",
+    "actual_reward": "3367605732073504145536",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 53,
+    "beneficiary": "WGYLrLw8TPjp1ynU9AiwZtanc7B2CMtB43ssKmawDwfoUsZ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 57,
+    "beneficiary": "Z72w8QNfMmbvq6VJ82yPd2giVHezNtpzVc3ZeSbCPu5j5EV",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1194186429813299342388",
+    "actual_reward": "95534914385063947391",
+    "delta": "1098651515428235394997"
+  },
+  {
+    "era": 743,
+    "dapp_id": 58,
+    "beneficiary": "ZNr4n9qc5fAap57oqoSazLpqqauQLzCTVXfKgKJsBp8t4Gr",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 59,
+    "beneficiary": "b1ymfVcP5vsT2ZPAWwVs6e2ecNWdFTGWfB8vzWixnyYacam",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1194186429813299342388",
+    "actual_reward": "95534914385063947391",
+    "delta": "1098651515428235394997"
+  },
+  {
+    "era": 743,
+    "dapp_id": 63,
+    "beneficiary": "XAAqKgEAdKw3N6tLuJM8RhiGE4DLwSxigGqahF5UBzfFcKL",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 64,
+    "beneficiary": "ZP8rbjrkyf5Qkjr32fEy3n6av2nPzHh6Egv62Vu8kgEwZ8Z",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3367605732073504145536",
+    "actual_reward": "1194186429813299342388",
+    "delta": "2173419302260204803148"
+  },
+  {
+    "era": 743,
+    "dapp_id": 66,
+    "beneficiary": "YQ3S4AGrjyMndkjJuzup1fsDHYsD6EZ9BSkhzkFtNRhjDS2",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 67,
+    "beneficiary": "ZqpPKt2sk2Xwd1YgYq8UvPF3JJDJ7XcEKFCcybYTeYDaigC",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 70,
+    "beneficiary": "XDTAqd8vCpX1mDbU6Bb3jjBYBPCb9UiW5DiyAQvDykfkJ7Q",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 71,
+    "beneficiary": "aja8WxDTzNkxttWGv4ndFXWgYmfFcvDyE3AQKikrrcPQnTj",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 743,
+    "dapp_id": 73,
+    "beneficiary": "aRxv5MQtqoYjW3UFV6gxE3TbWuNnXeXLnirLufHVD9LiE4x",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "95534914385063947391",
+    "actual_reward": "95534914385063947391",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 0,
+    "beneficiary": "XdFFaA9S31uQ9upPyKBGXcrYhFN7jtBkDYLDbDfc1VKaV8W",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3476238175043617182488",
+    "actual_reward": "3476238175043617182488",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 1,
+    "beneficiary": "anXvpdbMqS46xWb4tsF7BAhVwHsbwG3bmMCFQF2ddSsod9g",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 2,
+    "beneficiary": "ZRJ4wcGuf9KFqg1NB6wPctUwd7WcHo9LdBFzskEdSqiH52t",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 3,
+    "beneficiary": "YJRfL8FvfVLnvnKwvBWr1Bnav1SH4WztHhwspeAD29mt6xa",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 4,
+    "beneficiary": "YJqWvgMJcD1Di3BQvZ2W2KnSGKPfJGMVX6BZ9wfEaipviK9",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1219594651724220604992",
+    "actual_reward": "98264483367494345887",
+    "delta": "1121330168356726259105"
+  },
+  {
+    "era": 744,
+    "dapp_id": 5,
+    "beneficiary": "Zxqwap9tKnSaJuzoGzPrYzf13pZ63XUEngv8nVRxvopnW5N",
+    "expected_tier": 0,
+    "actual_tier": 0,
+    "expected_reward": "7165118578879796054332",
+    "actual_reward": "7165118578879796054332",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 6,
+    "beneficiary": "b1xCL3XGCjLrS2aZnUifnpuK9gCepGcsWboffjaR4F3tVuP",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 10,
+    "beneficiary": "YFZUVr9JRE3AMZ8CTjedJkvv9E7q2jcEvQJ8Y9vBgRYhPWc",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 11,
+    "beneficiary": "a4iJiYqsy3LK5KezfiDidVrGgUs5HVdffp7a6roBhVV7cuq",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3476238175043617182488",
+    "actual_reward": "3476238175043617182488",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 12,
+    "beneficiary": "Wmh1EtzS55Yu7nxMmszk2z7oPwbhDpzVn4v6hAnVTfGHcRY",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1219594651724220604992",
+    "actual_reward": "1219594651724220604992",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 13,
+    "beneficiary": "aChCmpvZat1Khi1QhnBs93ouXKodCGGNshiLaQ4e6QRRDEQ",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3476238175043617182488",
+    "actual_reward": "1219594651724220604992",
+    "delta": "2256643523319396577496"
+  },
+  {
+    "era": 744,
+    "dapp_id": 14,
+    "beneficiary": "WT2qJs5x8nfeCu9pry2b49oHAkfJdPuQ6ku9HbLx4z2bbUb",
+    "expected_tier": 0,
+    "actual_tier": 0,
+    "expected_reward": "7165118578879796054332",
+    "actual_reward": "7165118578879796054332",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 16,
+    "beneficiary": "ZUpyfsre39jAomUiBfcapWBHKV57H6UYz7HmhvX9gTd4Fs6",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 17,
+    "beneficiary": "ZEUr1PBaxshhhPcF4jeVFVoC6BwCDYj48UsJ5ShquWN2yeE",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1219594651724220604992",
+    "actual_reward": "98264483367494345887",
+    "delta": "1121330168356726259105"
+  },
+  {
+    "era": 744,
+    "dapp_id": 20,
+    "beneficiary": "XhjGfuq5T1KoEFp2k5TEDaKBe6o2nFdo8JRXL3UYb1vZySW",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3476238175043617182488",
+    "actual_reward": "1219594651724220604992",
+    "delta": "2256643523319396577496"
+  },
+  {
+    "era": 744,
+    "dapp_id": 23,
+    "beneficiary": "ZoByK2wayrCHie2GstYZYoKggwF6X1o1NJuXWYmB7ySosV5",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 24,
+    "beneficiary": "ZUo6331Sq9Fbt4Smx3XBuC2PBEV8s6sXkaJxUawgUqmRYfg",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 26,
+    "beneficiary": "aNkovLnKi2q5KLTyjvQFShdemhaQ1mwGcXDkdf81hvLMopX",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 27,
+    "beneficiary": "YCx2LEvMzjG7tBbdbfRNTsexU3FvTjZG3PN4bmJ5nx28XtB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 28,
+    "beneficiary": "YkqeedMEm6i8fFiwgbA4AHKespArFCfi8j3znqqx5wtEyPy",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 31,
+    "beneficiary": "ZwDkW3D3Z417kFDSh6ez9xhUWpTn1c1DAKZHUQCZXZeMqFN",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1219594651724220604992",
+    "actual_reward": "1219594651724220604992",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 33,
+    "beneficiary": "WYYVuTdvqyhJbRApoZnVExN6BnLpehFn9kmnJpQwjz12bn3",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1219594651724220604992",
+    "actual_reward": "1219594651724220604992",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 35,
+    "beneficiary": "X4Hsp6EcxNPypWidz4xuVJhoafLdpShzy5ADpLAJZdqeKwz",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1219594651724220604992",
+    "actual_reward": "98264483367494345887",
+    "delta": "1121330168356726259105"
+  },
+  {
+    "era": 744,
+    "dapp_id": 36,
+    "beneficiary": "XLtah1f9vJzWKE4Sbck851ArDQus1hAEaN6jtJcNQRujcDB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 37,
+    "beneficiary": "XMAHssEGJvaFyvXYYmuWDXvzCx4oLY5tGnvPLkviMVW4AYd",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 38,
+    "beneficiary": "bEKpmuoP86E9JSA5kzLHkFA9R2FHWyoX6dKX3XtvtL3rnKJ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 39,
+    "beneficiary": "ashiYo9RUjSj2f5hUbZY83FCy1ePkf54SFzD1CsZTgmC4qi",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 40,
+    "beneficiary": "b9AB1qFXsw81RuTBQ1sCP6PQ6k27QXWoe7VHrv9m6iwmBRK",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1219594651724220604992",
+    "actual_reward": "98264483367494345887",
+    "delta": "1121330168356726259105"
+  },
+  {
+    "era": 744,
+    "dapp_id": 42,
+    "beneficiary": "YewXn3eSdX5XKqwem27dXnbsWPtFsnzgXfdX6iNVUEGmPtw",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3476238175043617182488",
+    "actual_reward": "3476238175043617182488",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 47,
+    "beneficiary": "ZZZgswWp73ymRVpMu84bNfQERLyV9XR6T6DrozRxMdwT6Ez",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 49,
+    "beneficiary": "be8WtwsrvLUrJ5tA5Ht3BjKpajBMkRtYmURTa7BqNB6QZUA",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1219594651724220604992",
+    "actual_reward": "1219594651724220604992",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 51,
+    "beneficiary": "YXPD211sCj2gjrePAzsTtusqBbXmHp9A56whRXonz97TGKu",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1219594651724220604992",
+    "actual_reward": "98264483367494345887",
+    "delta": "1121330168356726259105"
+  },
+  {
+    "era": 744,
+    "dapp_id": 52,
+    "beneficiary": "ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3476238175043617182488",
+    "actual_reward": "3476238175043617182488",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 53,
+    "beneficiary": "WGYLrLw8TPjp1ynU9AiwZtanc7B2CMtB43ssKmawDwfoUsZ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 57,
+    "beneficiary": "Z72w8QNfMmbvq6VJ82yPd2giVHezNtpzVc3ZeSbCPu5j5EV",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1219594651724220604992",
+    "actual_reward": "98264483367494345887",
+    "delta": "1121330168356726259105"
+  },
+  {
+    "era": 744,
+    "dapp_id": 58,
+    "beneficiary": "ZNr4n9qc5fAap57oqoSazLpqqauQLzCTVXfKgKJsBp8t4Gr",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 59,
+    "beneficiary": "b1ymfVcP5vsT2ZPAWwVs6e2ecNWdFTGWfB8vzWixnyYacam",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1219594651724220604992",
+    "actual_reward": "98264483367494345887",
+    "delta": "1121330168356726259105"
+  },
+  {
+    "era": 744,
+    "dapp_id": 63,
+    "beneficiary": "XAAqKgEAdKw3N6tLuJM8RhiGE4DLwSxigGqahF5UBzfFcKL",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 64,
+    "beneficiary": "ZP8rbjrkyf5Qkjr32fEy3n6av2nPzHh6Egv62Vu8kgEwZ8Z",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3476238175043617182488",
+    "actual_reward": "1219594651724220604992",
+    "delta": "2256643523319396577496"
+  },
+  {
+    "era": 744,
+    "dapp_id": 66,
+    "beneficiary": "YQ3S4AGrjyMndkjJuzup1fsDHYsD6EZ9BSkhzkFtNRhjDS2",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 67,
+    "beneficiary": "ZqpPKt2sk2Xwd1YgYq8UvPF3JJDJ7XcEKFCcybYTeYDaigC",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 70,
+    "beneficiary": "XDTAqd8vCpX1mDbU6Bb3jjBYBPCb9UiW5DiyAQvDykfkJ7Q",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 71,
+    "beneficiary": "aja8WxDTzNkxttWGv4ndFXWgYmfFcvDyE3AQKikrrcPQnTj",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 744,
+    "dapp_id": 73,
+    "beneficiary": "aRxv5MQtqoYjW3UFV6gxE3TbWuNnXeXLnirLufHVD9LiE4x",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "98264483367494345887",
+    "actual_reward": "98264483367494345887",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 0,
+    "beneficiary": "XdFFaA9S31uQ9upPyKBGXcrYhFN7jtBkDYLDbDfc1VKaV8W",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3476238175043617182488",
+    "actual_reward": "3476238175043617182488",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 1,
+    "beneficiary": "anXvpdbMqS46xWb4tsF7BAhVwHsbwG3bmMCFQF2ddSsod9g",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 2,
+    "beneficiary": "ZRJ4wcGuf9KFqg1NB6wPctUwd7WcHo9LdBFzskEdSqiH52t",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 3,
+    "beneficiary": "YJRfL8FvfVLnvnKwvBWr1Bnav1SH4WztHhwspeAD29mt6xa",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 4,
+    "beneficiary": "YJqWvgMJcD1Di3BQvZ2W2KnSGKPfJGMVX6BZ9wfEaipviK9",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1246107578935616705101",
+    "actual_reward": "99688606314849336408",
+    "delta": "1146418972620767368693"
+  },
+  {
+    "era": 745,
+    "dapp_id": 5,
+    "beneficiary": "Zxqwap9tKnSaJuzoGzPrYzf13pZ63XUEngv8nVRxvopnW5N",
+    "expected_tier": 0,
+    "actual_tier": 0,
+    "expected_reward": "7165118578879796054332",
+    "actual_reward": "7165118578879796054332",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 6,
+    "beneficiary": "b1xCL3XGCjLrS2aZnUifnpuK9gCepGcsWboffjaR4F3tVuP",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 10,
+    "beneficiary": "YFZUVr9JRE3AMZ8CTjedJkvv9E7q2jcEvQJ8Y9vBgRYhPWc",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 11,
+    "beneficiary": "a4iJiYqsy3LK5KezfiDidVrGgUs5HVdffp7a6roBhVV7cuq",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3476238175043617182488",
+    "actual_reward": "3476238175043617182488",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 12,
+    "beneficiary": "Wmh1EtzS55Yu7nxMmszk2z7oPwbhDpzVn4v6hAnVTfGHcRY",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1246107578935616705101",
+    "actual_reward": "1246107578935616705101",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 13,
+    "beneficiary": "aChCmpvZat1Khi1QhnBs93ouXKodCGGNshiLaQ4e6QRRDEQ",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3476238175043617182488",
+    "actual_reward": "1246107578935616705101",
+    "delta": "2230130596108000477387"
+  },
+  {
+    "era": 745,
+    "dapp_id": 14,
+    "beneficiary": "WT2qJs5x8nfeCu9pry2b49oHAkfJdPuQ6ku9HbLx4z2bbUb",
+    "expected_tier": 0,
+    "actual_tier": 0,
+    "expected_reward": "7165118578879796054332",
+    "actual_reward": "7165118578879796054332",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 16,
+    "beneficiary": "ZUpyfsre39jAomUiBfcapWBHKV57H6UYz7HmhvX9gTd4Fs6",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 17,
+    "beneficiary": "ZEUr1PBaxshhhPcF4jeVFVoC6BwCDYj48UsJ5ShquWN2yeE",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1246107578935616705101",
+    "actual_reward": "99688606314849336408",
+    "delta": "1146418972620767368693"
+  },
+  {
+    "era": 745,
+    "dapp_id": 20,
+    "beneficiary": "XhjGfuq5T1KoEFp2k5TEDaKBe6o2nFdo8JRXL3UYb1vZySW",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3476238175043617182488",
+    "actual_reward": "1246107578935616705101",
+    "delta": "2230130596108000477387"
+  },
+  {
+    "era": 745,
+    "dapp_id": 23,
+    "beneficiary": "ZoByK2wayrCHie2GstYZYoKggwF6X1o1NJuXWYmB7ySosV5",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 24,
+    "beneficiary": "ZUo6331Sq9Fbt4Smx3XBuC2PBEV8s6sXkaJxUawgUqmRYfg",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 26,
+    "beneficiary": "aNkovLnKi2q5KLTyjvQFShdemhaQ1mwGcXDkdf81hvLMopX",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 27,
+    "beneficiary": "YCx2LEvMzjG7tBbdbfRNTsexU3FvTjZG3PN4bmJ5nx28XtB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 28,
+    "beneficiary": "YkqeedMEm6i8fFiwgbA4AHKespArFCfi8j3znqqx5wtEyPy",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 31,
+    "beneficiary": "ZwDkW3D3Z417kFDSh6ez9xhUWpTn1c1DAKZHUQCZXZeMqFN",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1246107578935616705101",
+    "actual_reward": "1246107578935616705101",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 33,
+    "beneficiary": "WYYVuTdvqyhJbRApoZnVExN6BnLpehFn9kmnJpQwjz12bn3",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1246107578935616705101",
+    "actual_reward": "1246107578935616705101",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 35,
+    "beneficiary": "X4Hsp6EcxNPypWidz4xuVJhoafLdpShzy5ADpLAJZdqeKwz",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1246107578935616705101",
+    "actual_reward": "99688606314849336408",
+    "delta": "1146418972620767368693"
+  },
+  {
+    "era": 745,
+    "dapp_id": 36,
+    "beneficiary": "XLtah1f9vJzWKE4Sbck851ArDQus1hAEaN6jtJcNQRujcDB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 37,
+    "beneficiary": "XMAHssEGJvaFyvXYYmuWDXvzCx4oLY5tGnvPLkviMVW4AYd",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 38,
+    "beneficiary": "bEKpmuoP86E9JSA5kzLHkFA9R2FHWyoX6dKX3XtvtL3rnKJ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 39,
+    "beneficiary": "ashiYo9RUjSj2f5hUbZY83FCy1ePkf54SFzD1CsZTgmC4qi",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 40,
+    "beneficiary": "b9AB1qFXsw81RuTBQ1sCP6PQ6k27QXWoe7VHrv9m6iwmBRK",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1246107578935616705101",
+    "actual_reward": "99688606314849336408",
+    "delta": "1146418972620767368693"
+  },
+  {
+    "era": 745,
+    "dapp_id": 42,
+    "beneficiary": "YewXn3eSdX5XKqwem27dXnbsWPtFsnzgXfdX6iNVUEGmPtw",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3476238175043617182488",
+    "actual_reward": "3476238175043617182488",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 47,
+    "beneficiary": "ZZZgswWp73ymRVpMu84bNfQERLyV9XR6T6DrozRxMdwT6Ez",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 49,
+    "beneficiary": "be8WtwsrvLUrJ5tA5Ht3BjKpajBMkRtYmURTa7BqNB6QZUA",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1246107578935616705101",
+    "actual_reward": "1246107578935616705101",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 51,
+    "beneficiary": "YXPD211sCj2gjrePAzsTtusqBbXmHp9A56whRXonz97TGKu",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1246107578935616705101",
+    "actual_reward": "99688606314849336408",
+    "delta": "1146418972620767368693"
+  },
+  {
+    "era": 745,
+    "dapp_id": 52,
+    "beneficiary": "ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3476238175043617182488",
+    "actual_reward": "3476238175043617182488",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 53,
+    "beneficiary": "WGYLrLw8TPjp1ynU9AiwZtanc7B2CMtB43ssKmawDwfoUsZ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 57,
+    "beneficiary": "Z72w8QNfMmbvq6VJ82yPd2giVHezNtpzVc3ZeSbCPu5j5EV",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1246107578935616705101",
+    "actual_reward": "99688606314849336408",
+    "delta": "1146418972620767368693"
+  },
+  {
+    "era": 745,
+    "dapp_id": 58,
+    "beneficiary": "ZNr4n9qc5fAap57oqoSazLpqqauQLzCTVXfKgKJsBp8t4Gr",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 59,
+    "beneficiary": "b1ymfVcP5vsT2ZPAWwVs6e2ecNWdFTGWfB8vzWixnyYacam",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1246107578935616705101",
+    "actual_reward": "99688606314849336408",
+    "delta": "1146418972620767368693"
+  },
+  {
+    "era": 745,
+    "dapp_id": 63,
+    "beneficiary": "XAAqKgEAdKw3N6tLuJM8RhiGE4DLwSxigGqahF5UBzfFcKL",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 64,
+    "beneficiary": "ZP8rbjrkyf5Qkjr32fEy3n6av2nPzHh6Egv62Vu8kgEwZ8Z",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3476238175043617182488",
+    "actual_reward": "1246107578935616705101",
+    "delta": "2230130596108000477387"
+  },
+  {
+    "era": 745,
+    "dapp_id": 66,
+    "beneficiary": "YQ3S4AGrjyMndkjJuzup1fsDHYsD6EZ9BSkhzkFtNRhjDS2",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 67,
+    "beneficiary": "ZqpPKt2sk2Xwd1YgYq8UvPF3JJDJ7XcEKFCcybYTeYDaigC",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 70,
+    "beneficiary": "XDTAqd8vCpX1mDbU6Bb3jjBYBPCb9UiW5DiyAQvDykfkJ7Q",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 71,
+    "beneficiary": "aja8WxDTzNkxttWGv4ndFXWgYmfFcvDyE3AQKikrrcPQnTj",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 745,
+    "dapp_id": 73,
+    "beneficiary": "aRxv5MQtqoYjW3UFV6gxE3TbWuNnXeXLnirLufHVD9LiE4x",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "99688606314849336408",
+    "actual_reward": "99688606314849336408",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 0,
+    "beneficiary": "XdFFaA9S31uQ9upPyKBGXcrYhFN7jtBkDYLDbDfc1VKaV8W",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3848692265226861880612",
+    "actual_reward": "3848692265226861880612",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 1,
+    "beneficiary": "anXvpdbMqS46xWb4tsF7BAhVwHsbwG3bmMCFQF2ddSsod9g",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 2,
+    "beneficiary": "ZRJ4wcGuf9KFqg1NB6wPctUwd7WcHo9LdBFzskEdSqiH52t",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 3,
+    "beneficiary": "YJRfL8FvfVLnvnKwvBWr1Bnav1SH4WztHhwspeAD29mt6xa",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 4,
+    "beneficiary": "YJqWvgMJcD1Di3BQvZ2W2KnSGKPfJGMVX6BZ9wfEaipviK9",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1364784491215199248444",
+    "actual_reward": "109182759297215939875",
+    "delta": "1255601731917983308569"
+  },
+  {
+    "era": 746,
+    "dapp_id": 5,
+    "beneficiary": "Zxqwap9tKnSaJuzoGzPrYzf13pZ63XUEngv8nVRxvopnW5N",
+    "expected_tier": 0,
+    "actual_tier": 1,
+    "expected_reward": "8188706947291195490665",
+    "actual_reward": "3848692265226861880612",
+    "delta": "4340014682064333610053"
+  },
+  {
+    "era": 746,
+    "dapp_id": 6,
+    "beneficiary": "b1xCL3XGCjLrS2aZnUifnpuK9gCepGcsWboffjaR4F3tVuP",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 10,
+    "beneficiary": "YFZUVr9JRE3AMZ8CTjedJkvv9E7q2jcEvQJ8Y9vBgRYhPWc",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 11,
+    "beneficiary": "a4iJiYqsy3LK5KezfiDidVrGgUs5HVdffp7a6roBhVV7cuq",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3848692265226861880612",
+    "actual_reward": "3848692265226861880612",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 12,
+    "beneficiary": "Wmh1EtzS55Yu7nxMmszk2z7oPwbhDpzVn4v6hAnVTfGHcRY",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1364784491215199248444",
+    "actual_reward": "1364784491215199248444",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 13,
+    "beneficiary": "aChCmpvZat1Khi1QhnBs93ouXKodCGGNshiLaQ4e6QRRDEQ",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3848692265226861880612",
+    "actual_reward": "1364784491215199248444",
+    "delta": "2483907774011662632168"
+  },
+  {
+    "era": 746,
+    "dapp_id": 14,
+    "beneficiary": "WT2qJs5x8nfeCu9pry2b49oHAkfJdPuQ6ku9HbLx4z2bbUb",
+    "expected_tier": 0,
+    "actual_tier": 0,
+    "expected_reward": "8188706947291195490665",
+    "actual_reward": "8188706947291195490665",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 16,
+    "beneficiary": "ZUpyfsre39jAomUiBfcapWBHKV57H6UYz7HmhvX9gTd4Fs6",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 17,
+    "beneficiary": "ZEUr1PBaxshhhPcF4jeVFVoC6BwCDYj48UsJ5ShquWN2yeE",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1364784491215199248444",
+    "actual_reward": "109182759297215939875",
+    "delta": "1255601731917983308569"
+  },
+  {
+    "era": 746,
+    "dapp_id": 20,
+    "beneficiary": "XhjGfuq5T1KoEFp2k5TEDaKBe6o2nFdo8JRXL3UYb1vZySW",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3848692265226861880612",
+    "actual_reward": "1364784491215199248444",
+    "delta": "2483907774011662632168"
+  },
+  {
+    "era": 746,
+    "dapp_id": 24,
+    "beneficiary": "ZUo6331Sq9Fbt4Smx3XBuC2PBEV8s6sXkaJxUawgUqmRYfg",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 26,
+    "beneficiary": "aNkovLnKi2q5KLTyjvQFShdemhaQ1mwGcXDkdf81hvLMopX",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 27,
+    "beneficiary": "YCx2LEvMzjG7tBbdbfRNTsexU3FvTjZG3PN4bmJ5nx28XtB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 28,
+    "beneficiary": "YkqeedMEm6i8fFiwgbA4AHKespArFCfi8j3znqqx5wtEyPy",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 31,
+    "beneficiary": "ZwDkW3D3Z417kFDSh6ez9xhUWpTn1c1DAKZHUQCZXZeMqFN",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1364784491215199248444",
+    "actual_reward": "1364784491215199248444",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 33,
+    "beneficiary": "WYYVuTdvqyhJbRApoZnVExN6BnLpehFn9kmnJpQwjz12bn3",
+    "expected_tier": 2,
+    "actual_tier": 2,
+    "expected_reward": "1364784491215199248444",
+    "actual_reward": "1364784491215199248444",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 35,
+    "beneficiary": "X4Hsp6EcxNPypWidz4xuVJhoafLdpShzy5ADpLAJZdqeKwz",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1364784491215199248444",
+    "actual_reward": "109182759297215939875",
+    "delta": "1255601731917983308569"
+  },
+  {
+    "era": 746,
+    "dapp_id": 36,
+    "beneficiary": "XLtah1f9vJzWKE4Sbck851ArDQus1hAEaN6jtJcNQRujcDB",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 37,
+    "beneficiary": "XMAHssEGJvaFyvXYYmuWDXvzCx4oLY5tGnvPLkviMVW4AYd",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 38,
+    "beneficiary": "bEKpmuoP86E9JSA5kzLHkFA9R2FHWyoX6dKX3XtvtL3rnKJ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 39,
+    "beneficiary": "ashiYo9RUjSj2f5hUbZY83FCy1ePkf54SFzD1CsZTgmC4qi",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 40,
+    "beneficiary": "b9AB1qFXsw81RuTBQ1sCP6PQ6k27QXWoe7VHrv9m6iwmBRK",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1364784491215199248444",
+    "actual_reward": "109182759297215939875",
+    "delta": "1255601731917983308569"
+  },
+  {
+    "era": 746,
+    "dapp_id": 42,
+    "beneficiary": "YewXn3eSdX5XKqwem27dXnbsWPtFsnzgXfdX6iNVUEGmPtw",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3848692265226861880612",
+    "actual_reward": "3848692265226861880612",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 47,
+    "beneficiary": "ZZZgswWp73ymRVpMu84bNfQERLyV9XR6T6DrozRxMdwT6Ez",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 49,
+    "beneficiary": "be8WtwsrvLUrJ5tA5Ht3BjKpajBMkRtYmURTa7BqNB6QZUA",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1364784491215199248444",
+    "actual_reward": "109182759297215939875",
+    "delta": "1255601731917983308569"
+  },
+  {
+    "era": 746,
+    "dapp_id": 51,
+    "beneficiary": "YXPD211sCj2gjrePAzsTtusqBbXmHp9A56whRXonz97TGKu",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1364784491215199248444",
+    "actual_reward": "109182759297215939875",
+    "delta": "1255601731917983308569"
+  },
+  {
+    "era": 746,
+    "dapp_id": 52,
+    "beneficiary": "ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc",
+    "expected_tier": 1,
+    "actual_tier": 1,
+    "expected_reward": "3848692265226861880612",
+    "actual_reward": "3848692265226861880612",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 53,
+    "beneficiary": "WGYLrLw8TPjp1ynU9AiwZtanc7B2CMtB43ssKmawDwfoUsZ",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 57,
+    "beneficiary": "Z72w8QNfMmbvq6VJ82yPd2giVHezNtpzVc3ZeSbCPu5j5EV",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1364784491215199248444",
+    "actual_reward": "109182759297215939875",
+    "delta": "1255601731917983308569"
+  },
+  {
+    "era": 746,
+    "dapp_id": 58,
+    "beneficiary": "ZNr4n9qc5fAap57oqoSazLpqqauQLzCTVXfKgKJsBp8t4Gr",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 59,
+    "beneficiary": "b1ymfVcP5vsT2ZPAWwVs6e2ecNWdFTGWfB8vzWixnyYacam",
+    "expected_tier": 2,
+    "actual_tier": 3,
+    "expected_reward": "1364784491215199248444",
+    "actual_reward": "109182759297215939875",
+    "delta": "1255601731917983308569"
+  },
+  {
+    "era": 746,
+    "dapp_id": 63,
+    "beneficiary": "XAAqKgEAdKw3N6tLuJM8RhiGE4DLwSxigGqahF5UBzfFcKL",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 64,
+    "beneficiary": "ZP8rbjrkyf5Qkjr32fEy3n6av2nPzHh6Egv62Vu8kgEwZ8Z",
+    "expected_tier": 1,
+    "actual_tier": 2,
+    "expected_reward": "3848692265226861880612",
+    "actual_reward": "1364784491215199248444",
+    "delta": "2483907774011662632168"
+  },
+  {
+    "era": 746,
+    "dapp_id": 66,
+    "beneficiary": "YQ3S4AGrjyMndkjJuzup1fsDHYsD6EZ9BSkhzkFtNRhjDS2",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 67,
+    "beneficiary": "ZqpPKt2sk2Xwd1YgYq8UvPF3JJDJ7XcEKFCcybYTeYDaigC",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 70,
+    "beneficiary": "XDTAqd8vCpX1mDbU6Bb3jjBYBPCb9UiW5DiyAQvDykfkJ7Q",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 71,
+    "beneficiary": "aja8WxDTzNkxttWGv4ndFXWgYmfFcvDyE3AQKikrrcPQnTj",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  },
+  {
+    "era": 746,
+    "dapp_id": 73,
+    "beneficiary": "aRxv5MQtqoYjW3UFV6gxE3TbWuNnXeXLnirLufHVD9LiE4x",
+    "expected_tier": 3,
+    "actual_tier": 3,
+    "expected_reward": "109182759297215939875",
+    "actual_reward": "109182759297215939875",
+    "delta": "0"
+  }
+]
