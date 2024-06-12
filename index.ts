@@ -228,6 +228,24 @@ async function main() {
     await Bun.write("./reimburse.csv", table.join("\n"));
   }
 
+  // prepare reimbursement sudo call
+  {
+    const api = await ApiPromise.create({
+      provider: new WsProvider(ENDPOINT),
+    });
+
+    // Can be verified here: https://astar.subscan.io/account/YQnbw3oWxBk2zTouRxQyxnD2dDCFsGrRGQRaCeDLy7KKMdJ
+    const dappStakingAccount = "YQnbw3oWxBk2zTouRxQyxnD2dDCFsGrRGQRaCeDLy7KKMdJ";
+
+    const transferCalls = Object.entries(reimburse).map(([beneficiary, amount]) =>
+      api.tx.balances.transferAllowDeath(beneficiary, amount)
+    );
+
+    const sudoCall = api.tx.sudo.sudoAs(dappStakingAccount, api.tx.utility.batch(transferCalls));
+
+    console.log("Hex encoded Sudo call for reimbursement:", sudoCall.toHex());
+  }
+
   console.log(
     "Total reimbursement amount",
     Object.values(reimburse).reduce((acc, amount) => acc + amount, 0n) /
