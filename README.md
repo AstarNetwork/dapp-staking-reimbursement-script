@@ -2,6 +2,12 @@
 
 To install dependencies:
 
+Make sure to have `bun` installed:
+
+```bash
+curl -fsSL https://bun.sh/install | bash
+```
+
 ```bash
 bun install
 ```
