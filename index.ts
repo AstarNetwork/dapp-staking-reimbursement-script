@@ -1,7 +1,7 @@
 import { setupContext } from "@acala-network/chopsticks-utils";
 import { overrideStorage } from "@acala-network/chopsticks/utils/override";
 import { ApiPromise, WsProvider } from "@polkadot/api";
-import { hexToBigInt } from "@polkadot/util";
+import { hexToBigInt, u8aToHex } from "@polkadot/util";
 
 const START_BLOCK = 6216237; // runtime upgrade with the issue
 const END_BLOCK = 6285334; // runtime upgrade with the fix
@@ -243,7 +243,7 @@ async function main() {
 
     const sudoCall = api.tx.sudo.sudoAs(dappStakingAccount, api.tx.utility.batch(transferCalls));
 
-    console.log("Hex encoded Sudo call for reimbursement:", sudoCall.toHex());
+    console.log("Hex encoded Sudo call for reimbursement:", sudoCall.method.toHex());
   }
 
   console.log(
